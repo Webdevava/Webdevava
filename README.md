@@ -1,6 +1,6 @@
 ### Hi👋 I'm Ankur
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Webdevava)](https://github.com/Webdevava&theme=dark&show_icons=true/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Webdevava&theme=dark&show_icons=true)](https://github.com/Webdevava/github-readme-stats)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
