@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 👨🏻‍💻 I'm BSc.-Computer-Science student
+- 💻 I'm into web-development
+- 🔭 I’m currently working on portfolio website
+- 🌱 I’m currently learning Back-end and ReactJs
+- 📫 How to reach me: [email](ankurauti@gmail.com)
+- 🥷🏻 Secretly I'm a ninja (!not ni**a)
+
 
 <!--
 **Webdevava/Webdevava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
