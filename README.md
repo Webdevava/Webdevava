@@ -1,10 +1,12 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Webdevava)](https://github.com/Webdevava/github-readme-stats)
+
+<!-- ### Hi there 👋
 - 👨🏻‍💻 I'm BSc.-Computer-Science student
 - 💻 I'm into web-development
 - 🔭 I’m currently working on portfolio website
 - 🌱 I’m currently learning Back-end and ReactJs
 - 📫 How to reach me: [email](ankurauti@gmail.com)
-- 🥷🏻 Secretly I'm a ninja 
+- 🥷🏻 Secretly I'm a ninja  -->
 
 
 <!--
