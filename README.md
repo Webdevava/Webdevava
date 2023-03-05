@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on portfolio website
 - 🌱 I’m currently learning Back-end and ReactJs
 - 📫 How to reach me: [email](ankurauti@gmail.com)
-- 🥷🏻 Secretly I'm a ninja (!not ni**a)
+- 🥷🏻 Secretly I'm a ninja 
 
 
 <!--
