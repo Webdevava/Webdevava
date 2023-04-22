@@ -7,6 +7,10 @@
 
 
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Webdevava&theme=gruvbox&border_radius=4.5)
+
+
+
 ## Languages and Tools <img src="https://media1.giphy.com/media/HLRFBBWONDgvD7qhlH/giphy.gif?cid=ecf05e47ze01e012ydcotvpolq7n5i1hv9kz6wbinlvv6863&rid=giphy.gif&ct=s" width="50">
 
 
@@ -21,4 +25,4 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Webdevava&theme=gruvbox&border_radius=4.5) 
+ 
