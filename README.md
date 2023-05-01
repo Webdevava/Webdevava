@@ -1,18 +1,17 @@
-# Hi<img src="https://media0.giphy.com/media/Q73tw53AU8VM83ao9B/giphy.gif?cid=ecf05e476jeo2bjg7u0hqpb6rbanszdwxpa1tf9yznn6lw1l&rid=giphy.gif&ct=s" width="50"> I'm Ankur
+# Hi<img src="https://media0.giphy.com/media/Q73tw53AU8VM83ao9B/giphy.gif?cid=ecf05e476jeo2bjg7u0hqpb6rbanszdwxpa1tf9yznn6lw1l&rid=giphy.gif&ct=s" width="50"> I'm _Ankur_
 
-## *Webdevava*
-
-
-
-‎![gif_1681822296210](https://user-images.githubusercontent.com/115859079/232783132-864efdc2-38a8-4548-a104-4fd3f18a3b04.gif)
+## _Webdevava_
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Webdevava&layout=large)](https://github.com/Webdevava/github-readme-stats)
+<img src="https://media2.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e479hp9jci8hej5l04khn52am7qgbelerso37o612ka&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100%" height="30%">
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Webdevava&theme=vision-friendly-dark&layout=large&border_radius=50%)](https://github.com/Webdevava/github-readme-stats)
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Webdevava&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=Webdevava&theme=highcontrast&border_radius=50)
 
 
 
