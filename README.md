@@ -1,20 +1,20 @@
-# Hi<img src="https://media0.giphy.com/media/Q73tw53AU8VM83ao9B/giphy.gif?cid=ecf05e476jeo2bjg7u0hqpb6rbanszdwxpa1tf9yznn6lw1l&rid=giphy.gif&ct=s" width="50"> I'm _Ankur_
+# ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Hi<img src="https://media0.giphy.com/media/Q73tw53AU8VM83ao9B/giphy.gif?cid=ecf05e476jeo2bjg7u0hqpb6rbanszdwxpa1tf9yznn6lw1l&rid=giphy.gif&ct=s" width="50"> I'm _Ankur_
 
 ## _Webdevava_
 
 
 
-<img src="https://media2.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e479hp9jci8hej5l04khn52am7qgbelerso37o612ka&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100%" height="30%">
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Webdevava&theme=vision-friendly-dark&layout=large&border_radius=50%)](https://github.com/Webdevava/github-readme-stats)
-<img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif"/>
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <img src="https://media2.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e479hp9jci8hej5l04khn52am7qgbelerso37o612ka&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50%">
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Webdevava&theme=highcontrast&border_radius=50)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif"/>
 
 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ![GitHub Streak](https://streak-stats.demolab.com?user=Webdevava&theme=highcontrast&border_radius=50)
+
+
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Webdevava&theme=vision-friendly-dark&layout=large&border_radius=50%)](https://github.com/Webdevava/github-readme-stats)
 
 ## Languages and Tools <img src="https://media1.giphy.com/media/HLRFBBWONDgvD7qhlH/giphy.gif?cid=ecf05e47ze01e012ydcotvpolq7n5i1hv9kz6wbinlvv6863&rid=giphy.gif&ct=s" width="50">
 
