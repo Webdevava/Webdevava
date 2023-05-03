@@ -8,6 +8,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Webdevava&theme=vision-friendly-dark&layout=large&border_radius=50%)](https://github.com/Webdevava/github-readme-stats)
+<img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif"/>
 
 
 
@@ -28,13 +29,3 @@
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-
-
-
-
-
-
-
-<img src="https://media0.giphy.com/media/eyvYnRdP8OQhQ0kW30/giphy.gif" width="100%">
- 
