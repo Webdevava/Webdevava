@@ -1,6 +1,6 @@
 # Hi<img src="https://media0.giphy.com/media/Q73tw53AU8VM83ao9B/giphy.gif?cid=ecf05e476jeo2bjg7u0hqpb6rbanszdwxpa1tf9yznn6lw1l&rid=giphy.gif&ct=s" width="50"> I'm _Ankur_
 
-## _Webdevava_
+<kbd>W</kbd><kbd>E</kbd><kbd>B</kbd><kbd>D</kbd><kbd>E</kbd><kbd>V</kbd><kbd>A</kbd><kbd>V</kbd><kbd>A</kbd>
 
 
 ### Hi there, my name is Ankur Auti and I recently graduated with a BSc in Computer Science. I have a strong background in web development and Python, and currently, I am excited to learn more about Machine Learning and Artificial Intelligence.
