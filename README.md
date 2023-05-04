@@ -3,12 +3,6 @@
 <kbd>W</kbd><kbd>E</kbd><kbd>B</kbd><kbd>D</kbd><kbd>E</kbd><kbd>V</kbd><kbd>A</kbd><kbd>V</kbd><kbd>A</kbd>
 
 
-<div align="center">
-<img src="https://octodex.github.com/images/megacat-2.png" width="200"><br>
-<sup><strong>Fig 1:</strong> Megatocat into action</sup>
-</div>
-
-
 ### Hi there, my name is Ankur Auti and I recently graduated with a BSc in Computer Science. I have a strong background in web development and Python, and currently, I am excited to learn more about Machine Learning and Artificial Intelligence.
 
 ### When I am not coding, I like to sip on some chai and brainstorm my next project. I believe that staying up-to-date with the latest programming advancements is crucial in this field.
