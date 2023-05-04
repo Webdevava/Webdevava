@@ -3,6 +3,13 @@
 ## _Webdevava_
 
 
+### Hi there, my name is Ankur Auti and I recently graduated with a BSc in Computer Science. I have a strong background in web development and Python, and currently, I am excited to learn more about Machine Learning and Artificial Intelligence.
+
+### When I am not coding, I like to sip on some chai and brainstorm my next project. I believe that staying up-to-date with the latest programming advancements is crucial in this field.
+
+### So, if you're looking for a skilled and knowledgeable coder, then look no further! I am here to help you out and bring your ideas to life.
+
+
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <img src="https://media2.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e479hp9jci8hej5l04khn52am7qgbelerso37o612ka&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50%">
 
