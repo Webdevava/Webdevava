@@ -13,25 +13,24 @@
 <img src="https://media2.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e479hp9jci8hej5l04khn52am7qgbelerso37o612ka&ep=v1_gifs_related&rid=giphy.gif&ct=s">
 </div>
 
-<!-- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <img src="https://media2.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e479hp9jci8hej5l04khn52am7qgbelerso37o612ka&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50%"> -->
+
 
 
 <div align="center">
-<img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif">
+<img src="https://media0.giphy.com/media/gVlgj80ZLp9yo/giphy.gif?cid=ecf05e47715qaw7v9iq5tycbcphf4u4o2688qe3jk45m0imy&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 </div>
-<!--  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif"/> -->
+
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Webdevava&theme=highcontrast&border_radius=50">
 </div>
-<!--  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ![GitHub Streak](https://streak-stats.demolab.com?user=Webdevava&theme=highcontrast&border_radius=50) -->
+
 
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webdevava&theme=vision-friendly-dark&layout=large&border_radius=50%">
 </div>
-<!-- 
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Webdevava&theme=vision-friendly-dark&layout=large&border_radius=50%)](https://github.com/Webdevava/github-readme-stats) -->
+
 
 ## Languages and Tools <img src="https://media1.giphy.com/media/HLRFBBWONDgvD7qhlH/giphy.gif?cid=ecf05e47ze01e012ydcotvpolq7n5i1hv9kz6wbinlvv6863&rid=giphy.gif&ct=s" width="50">
 
