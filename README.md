@@ -1,13 +1,26 @@
+<div align="center">
+
 # Hi<img src="https://media0.giphy.com/media/Q73tw53AU8VM83ao9B/giphy.gif?cid=ecf05e476jeo2bjg7u0hqpb6rbanszdwxpa1tf9yznn6lw1l&rid=giphy.gif&ct=s" width="50"> I'm _Ankur_
 
 <kbd>W</kbd><kbd>E</kbd><kbd>B</kbd><kbd>D</kbd><kbd>E</kbd><kbd>V</kbd><kbd>A</kbd><kbd>V</kbd><kbd>A</kbd>
 
+<details>
+  <summary>
+    <h3>view about me</h3>
+  </summary>
+  <p>
 
-### Hi there, my name is Ankur Auti and I recently graduated with a BSc in Computer Science. I have a strong background in web development and Python, and currently, I am excited to learn more about Machine Learning and Artificial Intelligence.
+  ### Hi there, my name is Ankur Auti and I recently graduated with a BSc in Computer Science. I have a strong background in web development and Python, and currently, I am excited to learn more about Machine Learning and Artificial Intelligence.
 
 ### When I am not coding, I like to sip on some chai and brainstorm my next project. I believe that staying up-to-date with the latest programming advancements is crucial in this field.
 
 ### So, if you're looking for a skilled and knowledgeable coder, then look no further! I am here to help you out and bring your ideas to life.
+
+  </p>
+</details>
+
+
+
 
 
 
@@ -97,3 +110,10 @@
  </tr>
 </table>
 <br>
+  
+  
+  # 📠 Contact Me
+
+If you're interested in collaborating or have any questions, feel free to reach out to me at  [ email ](mailto:ankurauti@gmail.com). Thanks again for visiting my profile!
+  
+  </div>
