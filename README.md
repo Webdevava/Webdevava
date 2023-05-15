@@ -9,16 +9,7 @@
 
 ### So, if you're looking for a skilled and knowledgeable coder, then look no further! I am here to help you out and bring your ideas to life.
 
-<div align="center">
-<img src="https://media2.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e479hp9jci8hej5l04khn52am7qgbelerso37o612ka&ep=v1_gifs_related&rid=giphy.gif&ct=s">
-</div>
 
-
-
-
-<div align="center">
-<img src="https://media0.giphy.com/media/gVlgj80ZLp9yo/giphy.gif?cid=ecf05e47715qaw7v9iq5tycbcphf4u4o2688qe3jk45m0imy&ep=v1_gifs_related&rid=giphy.gif&ct=g">
-</div>
 
 
 <div align="center">
@@ -44,4 +35,11 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />                                                                            
+
+ 
+
+# thankyou
+### Thank you for visiting my profile! I hope you found it informative. If you have any questions, please feel free to contact me.
+
+
