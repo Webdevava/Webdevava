@@ -13,20 +13,15 @@
  So, if you're looking for a skilled and knowledgeable coder, then look no further! I am here to help you out and bring your ideas to life.
   
   
-<details>
+<details open>
   <summary>
     <h3>My Stats 📊</h3>
   </summary>
   <p>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Webdevava&theme=highcontrast&border_radius=50">
-</div>
-
-
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webdevava&theme=vision-friendly-dark&layout=large&border_radius=50%">
+  <img src="https://streak-stats.demolab.com?user=Webdevava&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webdevava&theme=dark&layout=donut">
 </div>
 
   </p>
