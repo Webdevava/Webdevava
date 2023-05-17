@@ -5,12 +5,9 @@
 <img src="https://github.com/Webdevava.png" alt="alt text" width="200" height="200">
 
 <kbd>W</kbd><kbd>E</kbd><kbd>B</kbd><kbd>D</kbd><kbd>E</kbd><kbd>V</kbd><kbd>A</kbd><kbd>V</kbd><kbd>A</kbd>
-  
- Hi there, my name is Ankur Auti and I recently graduated with a BSc in Computer Science. I have a strong background in web development and Python, and currently, I am excited to learn more about Machine Learning and Artificial Intelligence.
 
- When I am not coding, I like to sip on some chai and brainstorm my next project. I believe that staying up-to-date with the latest programming advancements is crucial in this field.
 
- So, if you're looking for a skilled and knowledgeable coder, then look no further! I am here to help you out and bring your ideas to life.
+Hi there, I'm *Ankur Auti*, I'm a MERN stack developer, which means I'm basically a wizard who can conjure up web applications using MongoDB, Express, React, and Node.js. I'm passionate about writing code that's so clean, you could eat off of it (although I wouldn't recommend it). When I'm not busy slinging code, you can find me trying to teach my dog how to code (spoiler alert: it's not going well). Let's team up and build something amazing together!
   
   
 <details open>
@@ -20,8 +17,15 @@
   <p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Webdevava&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webdevava&theme=dark&layout=donut">
+  
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Webdevava&theme=github_dark)
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Webdevava&theme=github_dark)
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Webdevava&theme=github_dark)
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Webdevava&theme=github_dark)
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Webdevava&theme=github_dark)
+  
+<!--   <img src="https://streak-stats.demolab.com?user=Webdevava&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webdevava&theme=dark&layout=donut"> -->
 </div>
 
   </p>
