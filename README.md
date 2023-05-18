@@ -24,8 +24,8 @@ Hi there, I'm *Ankur Auti*, I'm a MERN stack developer, which means I'm basicall
    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Webdevava&theme=github_dark)
    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Webdevava&theme=github_dark&utcOffset=5.30)
   
-<!--   <img src="https://streak-stats.demolab.com?user=Webdevava&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webdevava&theme=dark&layout=donut"> -->
+  <img src="https://streak-stats.demolab.com?user=Webdevava&theme=github_dark">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webdevava&theme=dark&layout=donut"> -->
 </div>
 
   </p>
