@@ -17,7 +17,7 @@ I'm a **MERN stack developer**, which means I'm basically a wizard who can conju
 
 🤝 Let's team up and build something amazing together!
 
-  ---
+  
   
 ## 🎓 Education
 
@@ -29,7 +29,7 @@ I'm a **MERN stack developer**, which means I'm basically a wizard who can conju
   Science Faculty (PCM + Electronics)  
   Badrinarayan Barwale College, Jalna
 
-    ---
+    
   
 ## 💡 Self-Study and Online Resources
 
@@ -38,7 +38,7 @@ I'm a **MERN stack developer**, which means I'm basically a wizard who can conju
   - Official documentation and tutorials
   - YouTube tutorials and channels
 
-    ---
+    
   
 <details>
   <summary>
@@ -59,7 +59,7 @@ I'm a **MERN stack developer**, which means I'm basically a wizard who can conju
   </p>
 </details>
 
-  ---
+  
 
 ## 💻 My Favorite Tools and Technologies
 
