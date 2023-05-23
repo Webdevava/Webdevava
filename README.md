@@ -5,9 +5,9 @@
   # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3AB0FF&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Ankur+Auti,;I'm+21+years+old,;I'm+from+MH,+India,;and+I+study+programming+on+my+own;Jai+Hind🇮🇳!)](https://git.io/typing-svg)
 
   
-<!-- <img src="https://github.com/Webdevava.png" alt="Profile Picture" width="20%" height="20%"> -->
+<img src="https://github.com/Webdevava.png" alt="Profile Picture" width="30%" height="30%">
   
- ![Profile Picture](https://github.com/Webdevava.png "Webdevava's Profile")
+
 
 
 
