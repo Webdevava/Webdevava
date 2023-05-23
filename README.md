@@ -1,21 +1,28 @@
 <div align="center">
 
-# <img src="https://media2.giphy.com/media/k2pDCEEv8kMRT5OUNB/giphy.gif" alt="Funny Dancing GIF" height="50px" /> **Hello World!** <img src="https://media2.giphy.com/media/k2pDCEEv8kMRT5OUNB/giphy.gif" alt="Funny Dancing GIF" height="50px" />
+<!-- # <img src="https://media2.giphy.com/media/k2pDCEEv8kMRT5OUNB/giphy.gif" alt="Funny Dancing GIF" height="50px" /> **Hello World!** <img src="https://media2.giphy.com/media/k2pDCEEv8kMRT5OUNB/giphy.gif" alt="Funny Dancing GIF" height="50px" />
+ -->
+  # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3AB0FF&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Ankur+Auti,;I'm+21+years+old,;I'm+from+MH,+India,;and+I+study+programming+on+my+own;Jai+Hind🇮🇳!)](https://git.io/typing-svg)
 
-<img src="https://github.com/Webdevava.png" alt="Profile Picture" width="200" height="200">
+  
+<!-- <img src="https://github.com/Webdevava.png" alt="Profile Picture" width="20%" height="20%"> -->
+  
+ ![Profile Picture](https://github.com/Webdevava.png "Webdevava's Profile")
+
+
 
 <kbd>W</kbd><kbd>E</kbd><kbd>B</kbd><kbd>D</kbd><kbd>E</kbd><kbd>V</kbd><kbd>A</kbd><kbd>V</kbd><kbd>A</kbd>
-
+</div>
 
 # Hi there, I'm Ankur Auti! 👋
 
-I'm a **MERN stack developer**, which means I'm basically a wizard who can conjure up web applications using MongoDB, Express, React, and Node.js.
+### I'm a **MERN stack developer**, I possess the enchanting ability to craft captivating web applications using the mystical powers of MongoDB, Express, React, and Node.js.
 
-🧹 I'm passionate about writing code that's so clean, you could eat off of it (although I wouldn't recommend it).
+- 🧹  I have a passion for writing code that's not only functional but also squeaky clean. I take pride in crafting code that is easy to read, understand, and maintain.  
 
-🐶 When I'm not busy slinging code, you can find me trying to teach my dog how to code (spoiler alert: it's not going well).
+- 🐶 When I'm not immersed in coding spells, you might find me attempting the seemingly impossible task of teaching my furry friend how to code. It's a playful pursuit, although my four-legged companion hasn't quite grasped the concept yet. But hey, we have a blast trying!
 
-🤝 Let's team up and build something amazing together!
+- 🤝 Let's team up and create something amazing together. With my MERN stack expertise, we can bring your ideas to life and build remarkable web applications that leave a lasting impression. Together, we'll craft digital wonders that make a difference.
 
   
   
@@ -42,7 +49,7 @@ I'm a **MERN stack developer**, which means I'm basically a wizard who can conju
   
 <details>
   <summary>
-    <h3>My Stats📊</h3>
+   <h2>📊 My Stats <h5> (click-me)</h5></h2>
   </summary>
   <p>
 
@@ -75,9 +82,7 @@ I'm a **MERN stack developer**, which means I'm basically a wizard who can conju
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <
-
-br>JavaScript
+      <br>JavaScript
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
@@ -135,18 +140,15 @@ br>JavaScript
 </table>
 <br>
   
-## 🎉 **Thanks for Stopping By!** 🎉
+## 🙏🏻 **Thanks for Stopping By!** 
 
 Hey there! Just wanted to drop a quick note to say thanks for checking out my GitHub profile and reading the README. You rock!🤘
 
-If you have any questions or just want to chat about coding, feel free to reach out. I'm always up for some nerdy banter!
-
 Feel free to explore my repositories and discover the weird and wonderful projects I've been tinkering with. Don't worry, I promise they're mostly harmless. 😉
 
-Thanks again for visiting, and remember: keep coding and stay awesome! ✨
 
 ## 📠 Contact Me
 
-If you're interested in collaborating or have any questions, feel free to reach out to me at [🔗 email](mailto:ankurauti@gmail.com). Thanks again for visiting my profile!
+If you're interested in collaborating or have any questions, feel free to reach out to me at [🔗 email](mailto:ankurauti@gmail.com). Thanks again for visiting my profile,and remember: keep coding and stay awesome! ✨!
 
-</div>
+
