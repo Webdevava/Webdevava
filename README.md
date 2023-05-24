@@ -151,7 +151,20 @@ Feel free to explore my repositories and discover the weird and wonderful projec
 
 If you're interested in collaborating or have any questions, feel free to reach out to me at [🔗 email](mailto:ankurauti@gmail.com). Thanks again for visiting my profile,and remember: keep coding and stay awesome! ✨!
 
+---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ankur_auti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankur_auti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankur-auti-862953250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur-auti-862953250" height="30" width="40" /></a>
+<a href="https://instagram.com/ankurauti382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankurauti382" height="30" width="40" /></a>
+ <a href="https://github.com/Webdevava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ankurauti382" height="30" width="40" /></a>
+</p>
 
-### Enjoy random joke
-<img src = "https://readme-jokes.vercel.app/api?theme=random">
+
+   
+            
+   
+    
+       
+   
 
