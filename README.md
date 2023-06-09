@@ -1,7 +1,7 @@
 <div align="center">
 
 
- -->
+
   # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3AB0FF&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Ankur+Auti,;I'm+21+years+old,;I'm+from+MH,+India,;and+I+study+programming+on+my+own;Jai+Hind🇮🇳!)](https://git.io/typing-svg)
 
 
