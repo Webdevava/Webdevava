@@ -118,16 +118,5 @@
 If you're interested in collaborating or have any questions, feel free to reach out to me at [🔗 email](mailto:ankurauti@gmail.com). Thanks again for visiting my profile,and remember: keep coding and stay awesome! ✨!
 
 ---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="ankurauti@gmail.com" target="blank"><img align="center" src="https://github.com/Webdevava/Webdevava/assets/115859079/74f4aac6-e5b6-4a1a-a10b-cfa942937375" alt="ankur_auti" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/ankur-auti-862953250" target="blank"><img align="center" src="https://github.com/Webdevava/Webdevava/assets/115859079/ee72e43c-d4d3-4fbf-9c58-85b4ad49dedf" alt="ankur-auti-862953250" height="40" width="40" /></a>
-<a href="https://instagram.com/ankurauti382" target="blank"><img align="center" src="https://github.com/Webdevava/Webdevava/assets/115859079/034f4f21-f231-46ed-b33f-7455e54fe9d8" alt="ankurauti382" height="40" width="40" /></a>
-</p>
-
----
 <h3><a href="https://drive.google.com/file/d/1883dodd8sa9pdo2dtY2RDh_OYiTOmOvt/view?usp=sharing" target="blank"><img align="center" src="https://github.com/Webdevava/Webdevava/assets/115859079/f01517eb-f737-40f2-be97-038065711414" alt="ankurauti382" height="30" width="30" /></a>Download CV</h3>
-
-
-[Download My Resume](https://drive.google.com/file/d/1883dodd8sa9pdo2dtY2RDh_OYiTOmOvt/view?usp=sharing)
 
