@@ -1,29 +1,24 @@
 <div align="center">
 
-<!-- # <img src="https://media2.giphy.com/media/k2pDCEEv8kMRT5OUNB/giphy.gif" alt="Funny Dancing GIF" height="50px" /> **Hello World!** <img src="https://media2.giphy.com/media/k2pDCEEv8kMRT5OUNB/giphy.gif" alt="Funny Dancing GIF" height="50px" />
+
  -->
   # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3AB0FF&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Ankur+Auti,;I'm+21+years+old,;I'm+from+MH,+India,;and+I+study+programming+on+my+own;Jai+Hind🇮🇳!)](https://git.io/typing-svg)
 
+
   
-<img src="https://github.com/Webdevava.png" alt="Profile Picture" width="30%" height="30%">
-  
 
 
 
-
-<kbd>W</kbd><kbd>E</kbd><kbd>B</kbd><kbd>D</kbd><kbd>E</kbd><kbd>V</kbd><kbd>A</kbd><kbd>V</kbd><kbd>A</kbd>
+# Hi there, I'm Ankur Auti! 👋 
 </div>
-
-# Hi there, I'm Ankur Auti! 👋
 
 ### I'm a **MERN stack developer**, I possess the enchanting ability to craft captivating web applications using the mystical powers of MongoDB, Express, React, and Node.js.
 
-- 🧹  I have a passion for writing code that's not only functional but also squeaky clean. I take pride in crafting code that is easy to read, understand, and maintain.  
-
-- 🐶 When I'm not immersed in coding spells, you might find me attempting the seemingly impossible task of teaching my furry friend how to code. It's a playful pursuit, although my four-legged companion hasn't quite grasped the concept yet. But hey, we have a blast trying!
-
-- 🤝 Let's team up and create something amazing together. With my MERN stack expertise, we can bring your ideas to life and build remarkable web applications that leave a lasting impression. Together, we'll craft digital wonders that make a difference.
-
+- BSc graduate and self-taught web developer.
+- Expertise in front-end development, combining functionality and design.
+- Constantly learning and staying updated with industry trends.
+- Strong problem-solving and communication skills for effective collaboration.
+- Committed to delivering exceptional results and transforming ideas into captivating online experiences.
   
   
 ## 🎓 Education
@@ -32,41 +27,18 @@
   Bachelor of Science (B.Sc.) in Computer Science  
   Dr. Babasaheb Ambedkar Marathwada University
 
-- **High School:**  
-  Science Faculty (PCM + Electronics)  
-  Badrinarayan Barwale College, Jalna
-
     
   
 ## 💡 Self-Study and Online Resources
 
-- **MERN Stack Web Development Course**  
+ **MERN Stack Web Development Course**  
   - Angela Yu's Udemy course
   - Official documentation and tutorials
   - YouTube tutorials and channels
 
     
   
-<details>
-  <summary>
-   <h2>📊 My Stats <h5> (click-me)</h5></h2>
-  </summary>
-  <p>
 
-<div align="center">
-  
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Webdevava&theme=github_dark)
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Webdevava&theme=github_dark)
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Webdevava&theme=github_dark)
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Webdevava&theme=github_dark)
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Webdevava&theme=github_dark&utcOffset=5.30)
-  
-</div>
-
-  </p>
-</details>
-
-  
 
 ## 💻 My Favorite Tools and Technologies
 
@@ -140,12 +112,6 @@
 </table>
 <br>
   
-## 🙏🏻 **Thanks for Stopping By!** 
-
-Hey there! Just wanted to drop a quick note to say thanks for checking out my GitHub profile and reading the README. You rock!🤘
-
-Feel free to explore my repositories and discover the weird and wonderful projects I've been tinkering with. Don't worry, I promise they're mostly harmless. 😉
-
 
 ## 📠 Contact Me
 
@@ -154,17 +120,14 @@ If you're interested in collaborating or have any questions, feel free to reach 
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ankur_auti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankur_auti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankur-auti-862953250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur-auti-862953250" height="30" width="40" /></a>
-<a href="https://instagram.com/ankurauti382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankurauti382" height="30" width="40" /></a>
- <a href="https://github.com/Webdevava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ankurauti382" height="30" width="40" /></a>
+<a href="ankurauti@gmail.com" target="blank"><img align="center" src="https://github.com/Webdevava/Webdevava/assets/115859079/74f4aac6-e5b6-4a1a-a10b-cfa942937375" alt="ankur_auti" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/ankur-auti-862953250" target="blank"><img align="center" src="https://github.com/Webdevava/Webdevava/assets/115859079/ee72e43c-d4d3-4fbf-9c58-85b4ad49dedf" alt="ankur-auti-862953250" height="40" width="40" /></a>
+<a href="https://instagram.com/ankurauti382" target="blank"><img align="center" src="https://github.com/Webdevava/Webdevava/assets/115859079/034f4f21-f231-46ed-b33f-7455e54fe9d8" alt="ankurauti382" height="40" width="40" /></a>
 </p>
 
+---
+<h3><a href="https://drive.google.com/file/d/1883dodd8sa9pdo2dtY2RDh_OYiTOmOvt/view?usp=sharing" target="blank"><img align="center" src="https://github.com/Webdevava/Webdevava/assets/115859079/f01517eb-f737-40f2-be97-038065711414" alt="ankurauti382" height="30" width="30" /></a>Download CV</h3>
 
-   
-            
-   
-    
-       
-   
+
+[Download My Resume](https://drive.google.com/file/d/1883dodd8sa9pdo2dtY2RDh_OYiTOmOvt/view?usp=sharing)
 
