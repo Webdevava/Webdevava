@@ -120,6 +120,3 @@ If you're interested in collaborating or have any questions, feel free to reach 
 
 ---
 <h3><a href="https://drive.google.com/file/d/1883dodd8sa9pdo2dtY2RDh_OYiTOmOvt/view?usp=sharing" target="blank"><img align="center" src="https://github.com/Webdevava/Webdevava/assets/115859079/f01517eb-f737-40f2-be97-038065711414" alt="ankurauti382" height="30" width="30" />Download CV</a></h3>
-
-
-![](https://komarev.com/ghpvc/?username=Webdevava)
