@@ -1,26 +1,16 @@
 # Ankur Auti
 
-**Full-Stack Developer** • **Cloud-Native Specialist** • **Pune, India**
+**Full-Stack Developer**
 
-Building scalable web applications with modern technologies and cloud infrastructure. Passionate about clean code, performance optimization, and cutting-edge development practices.
+Building scalable web applications with modern technologies and cloud infrastructure. Passionate about clean code, performance optimization, and modern development practices.
 
 ---
 
 ## What I Do
 
-I architect and develop full-stack applications using Next.js, React, and Node.js ecosystems, with a focus on scalable cloud deployments. From serverless functions to database optimization, I create production-ready solutions that perform at scale.
+I architect and develop full-stack applications with **Next.js**, **React**, and **Node.js**, focusing on scalable cloud deployments. From serverless functions to database optimization, I deliver production-ready solutions that perform reliably at scale.
 
-**Core Expertise:**
-- Frontend: Next.js, React, TypeScript, Tailwind CSS
-- Backend: Node.js, NestJS, RESTful APIs
-- Database: PostgreSQL, MongoDB
-- Cloud: AWS (Lambda, EC2, S3, RDS)
-- Languages: JavaScript, TypeScript, Python
-
-## Background
-
-**Education:** B.Sc. Computer Science, Dr. Babasaheb Ambedkar Marathwada University  
-**Learning:** Self-taught through comprehensive courses, documentation, and hands-on projects
+---
 
 ## Tech Stack
 
@@ -35,8 +25,10 @@ const techStack = {
 };
 ```
 
-## Let's Connect
+---
 
-Open to collaboration and interesting conversations about web development.
+## Let’s Connect
+
+Open to collaboration and meaningful conversations about web development.
 
 **Email:** [ankurauti@gmail.com](mailto:ankurauti@gmail.com)
