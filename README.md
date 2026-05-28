@@ -1,34 +1,37 @@
 # Ankur Auti
 
-**Full-Stack Developer**
-
-Building scalable web applications with modern technologies and cloud infrastructure. Passionate about clean code, performance optimization, and modern development practices.
+**Full-Stack Developer** · Pune, India · [ankurauti.vercel.app](https://ankurauti.vercel.app)
 
 ---
 
-## What I Do
+I build production-grade web applications - from architecture to deployment. Currently at **Inditronics PVT LTD**, where I work on scalable systems using modern cloud infrastructure. I care about clean abstractions, reliable APIs, and interfaces that don't get in the way.
 
-I architect and develop full-stack applications with **Next.js**, **React**, and **Node.js**, focusing on scalable cloud deployments. From serverless functions to database optimization, I deliver production-ready solutions that perform reliably at scale.
-
----
-
-## Tech Stack
-
-```javascript
-const techStack = {
-  frontend: ['Next.js', 'React', 'TypeScript', 'Tailwind CSS'],
-  backend: ['Node.js', 'NestJS', 'Python'],
-  database: ['PostgreSQL', 'MongoDB'],
-  cloud: ['AWS Lambda', 'EC2', 'S3', 'RDS'],
-  languages: ['JavaScript', 'TypeScript', 'Python'],
-  tools: ['Git', 'VS Code', 'Postman', 'Linux']
-};
-```
+My stack leans heavily on the **Next.js / Node.js / AWS** ecosystem. I'm comfortable across the full lifecycle: product thinking, system design, implementation, and ongoing performance tuning.
 
 ---
 
-## Let’s Connect
+## Work
 
-Open to collaboration and meaningful conversations about web development.
+| Area | Technologies |
+|---|---|
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, Radix UI, Zustand, TanStack Query |
+| **Backend** | Node.js, NestJS, Python, REST, WebSockets |
+| **Data** | PostgreSQL, MongoDB |
+| **Cloud** | AWS Lambda, EC2, S3, RDS |
+| **Tooling** | Git, ESLint, Jest, Zod, Postman, Linux |
 
-**Email:** [ankurauti@gmail.com](mailto:ankurauti@gmail.com)
+---
+
+## Currently
+
+- Deep in serverless architecture patterns and edge deployments
+- Improving DX tooling and internal component systems
+- 91 public repos — mostly experiments, utilities, and production starters
+
+---
+
+## Contact
+
+I'm open to collaboration on interesting problems, freelance work, or just a good technical conversation.
+
+**[ankurauti@gmail.com](mailto:ankurauti@gmail.com)** · **[GitHub](https://github.com/webdevava)** · **[X](https://x.com/ankur_auti)**
